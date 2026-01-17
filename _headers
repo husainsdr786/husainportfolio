@@ -1,0 +1,3 @@
+/uploads/*.pdf
+  Content-Disposition: inline
+  Content-Type: application/pdf
